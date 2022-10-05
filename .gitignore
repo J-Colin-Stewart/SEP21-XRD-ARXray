@@ -43,6 +43,9 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+# Compressed archive for Vuforia engine package files
+/[Pp]ackages/*.tgz
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
